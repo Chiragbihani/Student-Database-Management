@@ -1,0 +1,21 @@
+{
+  "name": "student_analyzer",
+  "version": "1.0.0",
+  "description": "This is a server of student progress tracker app",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kunal salunkhe",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.2",
+    "node-fetch": "^3.3.1"
+  }
+}
