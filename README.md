@@ -27,22 +27,3 @@ The Student Progress Analyzer System is a project that aims to predict the acade
 
 [![Tech Stack](https://skillicons.dev/icons?i=react,express,mongodb,tailwind,flask)](https://skillicons.dev)
 
-
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for ways to get started.
-
-
-
-## Authors
-
-- [@KunalSalunkhe12](https://github.com/KunalSalunkhe12)
-- [@Saloni-FED](https://github.com/Saloni-FED)
-- [@Rishabh23122211](https://github.com/rishabh23122211)
-- [@AnujTiwari](https://github.com/anuj2077)
-
-## License
-[MIT license](LICENSE)
